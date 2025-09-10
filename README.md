@@ -4,7 +4,7 @@ The exercises were made using **R language** on a **notebook at RStudio**
 
 You will find the resolution of each exercise (containing code + explanation) on the **PDF uploaded to this Repo**. 
 
-If you only want to see the codes, you will find them in the .r file (but I do wish that you'll read the PDF) :)
+If you only want to see the codes, you will find them in the .r file (but I do wish that you read the PDF) :)
 
 Also: 
 
