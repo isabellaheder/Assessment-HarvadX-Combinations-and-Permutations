@@ -18,3 +18,9 @@ celtic_wins <- replicate(B, {
 mean(celtic_wins)
 
 # exercise 3 
+
+box <- rep(c('cyan','magenta','yellow'), times = c(3, 5, 7))
+p_yellow <- mean(box== 'yellow')
+p_yellow
+
+# exercise 4
