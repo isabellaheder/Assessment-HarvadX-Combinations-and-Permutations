@@ -1,2 +1,9 @@
+# This is a file containing codes ONLY
+
+# If you're looking for an explanation of each step and the context of the exercises, 
+# you will find both in the PDF uploaded to this repo! :)
+
 # exercise 1
 
+p_cavs_win4 <- 0.6ˆ4
+1- p_cavs_win4
