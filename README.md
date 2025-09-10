@@ -8,7 +8,7 @@ Also:
 
 --> You can find this exercises in HarvardX course (EDX) called "Data Science: Probability", this is one of many assessments. 
 
---> Feel free to contact me if you find the need to! :) 
+--> Feel free to contact me if you feel like you need to! :) 
 
 ## EXERCISES:
 1. Two teams, say the Celtics and the Cavs, are playing a seven game series. The Cavs have a 60% chance of winning each game. What is the probability that the Celtics win at least one game? Remember that the Celtics must win one of the first four games, or the series will be over!
