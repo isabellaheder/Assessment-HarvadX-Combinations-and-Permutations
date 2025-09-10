@@ -1,7 +1,9 @@
 # Assessment-HarvadX-Combinations-and-Permutations-UsingR
 ## EDX Assessment for HarvardX Data Science: Probability course.
 
-The exercises were made using R language.
+# The exercises were made using R language using a notebook in RStudio
+## You will find the resolution of each exercise (containing code + explanation) on the PDF uploaded to this Repo. 
+### You can find this exercises in HarvardX course (EDX) called "Data Science: Probability", this is one of many assessments at the Course. 
 
 ## EXERCISES:
 1. Two teams, say the Celtics and the Cavs, are playing a seven game series. The Cavs have a 60% chance of winning each game. What is the probability that the Celtics win at least one game? Remember that the Celtics must win one of the first four games, or the series will be over!
