@@ -1,10 +1,12 @@
-## EDX Assessment for HarvardX Data Science: Probability course.
+# EDX Assessment for HarvardX Data Science: Probability course.
 
-# The exercises were made using **R language** on a **notebook at RStudio**
-## You will find the resolution of each exercise (containing code + explanation) on the **PDF uploaded to this Repo**. 
+### The exercises were made using **R language** on a **notebook at RStudio**
+### You will find the resolution of each exercise (containing code + explanation) on the **PDF uploaded to this Repo**. 
 
 Also: 
+
 --> You can find this exercises in HarvardX course (EDX) called "Data Science: Probability", this is one of many assessments at the Course. 
+
 --> Feel free to contact me if you find the need to! :) 
 
 ## EXERCISES:
