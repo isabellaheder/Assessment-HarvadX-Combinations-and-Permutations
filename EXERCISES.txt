@@ -13,7 +13,8 @@ What is the probability that the Celtics win at least one game? Remember that th
 	Instructions:
 		- Use the replicate function for B ← 10000 simulations of a four game series. The results of replicate should be stored in a variable named celtic_wins.
 		- Use the set.seed function to make sure your answer matches the expected result after random sampling;
-		- Create an object called celtic_wins that replicates two steps for B iterations: (1) generating a random four-game series named simulated_games, then (2) determining whether the simulated series contains at least one win for the Celtics. 
+		- Create an object called celtic_wins that replicates two steps for B iterations: (1) generating a random four-game series named simulated_games, 
+		  then (2) determining whether the simulated series contains at least one win for the Celtics. 
   
 3. Say you’ve drawn 5 balls from a box that has 3 cyan balls, 5 magenta balls, and 7 yellow balls, with replacement, and all have been yellow. What is the probability that the next one is yellow?
   
