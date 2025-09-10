@@ -17,10 +17,17 @@ celtic_wins <- replicate(B, {
 	any(simulated_games== "win")})
 mean(celtic_wins)
 
-# exercise 3 
+# exercise 3:
 
 box <- rep(c('cyan','magenta','yellow'), times = c(3, 5, 7))
 p_yellow <- mean(box== 'yellow')
 p_yellow
 
-# exercise 4
+p_yellow
+
+# exercise 4:
+
+p_no6 <- 5/6
+p_no6
+
+p_no6ˆ6
