@@ -1,0 +1,33 @@
+# This is a file containing codes ONLY
+
+# If you're looking for an explanation of each step and the context of the exercises, 
+# you will find both in the PDF uploaded to this repo! :)
+
+# exercise 1:
+
+p_cavs_win4 <- 0.6ˆ4
+1 - p_cavs_win4
+
+# exercise 2:
+
+B <- 10000
+set.seed(1)
+celtic_wins <- replicate(B, {
+	simulated_games <- sample(c("lose", "win"), 4, replace = TRUE, prob = c(0.6, 0.4))
+	any(simulated_games== "win")})
+mean(celtic_wins)
+
+# exercise 3:
+
+box <- rep(c('cyan','magenta','yellow'), times = c(3, 5, 7))
+p_yellow <- mean(box== 'yellow')
+p_yellow
+
+p_yellow
+
+# exercise 4:
+
+p_no6 <- 5/6
+p_no6
+
+p_no6ˆ6
